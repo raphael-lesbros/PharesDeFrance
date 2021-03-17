@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phares</string>
+    <string name="nav_header_title">Les Phares de France</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="menu_home">Accueil</string>
+    <string name="menu_map">Carte</string>
+    <string name="menu_list">Liste</string>
+    <string name="home_image">Image de phare</string>
+    <string name="home_string">Les phares de France</string>
+    <string name="menu_apropos">A Propos</string>
+    <string name="lighthouse_name">Nom</string>
+    <string name="lighthouse_height">Hauteur</string>
+    <string name="lighthouse_automation">Automatisation</string>
+    <string name="lighthouse_sparkle">Éclats</string>
+    <string name="lighthouse_construction">Construction</string>
+    <string name="lighthouse_type">Caractère</string>
+    <string name="lighthouse_range">Portée</string>
+    <string name="lighthouse_region">Région</string>
+    <string name="lighthouse_location">Coordonnées</string>
+    <string name="lighthouse_period">Période</string>
+</resources>
